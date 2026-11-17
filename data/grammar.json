@@ -1,0 +1,129 @@
+[
+{"id":"tenses-present","title":"Geniş Zaman ve Şimdiki Zaman","tag":"tense","sum":"Present Simple ve Present Continuous: alışkanlıklar, genel gerçekler ve şu an süren eylemler.",
+"parts":[
+{"h":"Present Simple (Geniş zaman)","t":"Alışkanlıkları, tekrarlanan eylemleri ve genel gerçekleri anlatır. Üçüncü tekil şahısta (he, she, it) fiile -s takısı gelir. Olumsuz ve soru cümlelerinde do / does kullanılır.","ex":[["Water boils at 100 degrees.","Su 100 derecede kaynar."],["She works in a hospital.","Bir hastanede çalışıyor."],["He doesn't eat meat.","Et yemez."]]},
+{"h":"Present Continuous (Şimdiki zaman)","t":"Şu anda ya da bu günlerde süren, geçici eylemleri anlatır. Yapı: am / is / are + fiil-ing.","ex":[["Prices are rising quickly these days.","Bu günlerde fiyatlar hızla artıyor."],["I'm studying for YDS this year.","Bu yıl YDS'ye çalışıyorum."]]},
+{"h":"Durum fiilleri","t":"know, believe, understand, want, belong, contain gibi durum bildiren fiiller genellikle -ing almaz.","ex":[["I know the answer. (I'm knowing ✗)","Cevabı biliyorum."],["The box contains old letters.","Kutu eski mektuplar içeriyor."]]}
+],
+"tip":"YDS'de zaman sorularında önce zaman ifadesine bak: usually, every day, always → geniş zaman; now, at the moment, currently, these days → şimdiki zaman."},
+
+{"id":"tenses-past","title":"Geçmiş Zamanlar","tag":"tense","sum":"Past Simple, Past Continuous ve Past Perfect: geçmişte olan, süren ve daha önce bitmiş eylemler.",
+"parts":[
+{"h":"Past Simple","t":"Geçmişte belirli bir zamanda bitmiş eylemler. Düzenli fiiller -ed alır; düzensizleri ezberlemek gerekir (go → went, see → saw).","ex":[["Gutenberg invented the printing press around 1450.","Gutenberg matbaayı 1450 civarında icat etti."]]},
+{"h":"Past Continuous","t":"Geçmişte belirli bir anda devam etmekte olan eylem. Yapı: was / were + fiil-ing. Genellikle when ve while ile kullanılır.","ex":[["I was reading when the phone rang.","Telefon çaldığında okuyordum."],["While she was walking, it started to rain.","O yürürken yağmur başladı."]]},
+{"h":"Past Perfect","t":"Geçmişteki bir olaydan daha önce tamamlanmış eylem. Yapı: had + fiilin üçüncü hâli (V3).","ex":[["When we arrived, the film had already started.","Vardığımızda film çoktan başlamıştı."],["By 1500, millions of books had been printed.","1500'e gelindiğinde milyonlarca kitap basılmıştı."]]}
+],
+"tip":"\"By the time + geçmiş zaman\" ve \"by + geçmiş tarih\" kalıplarından sonra çoğunlukla past perfect gelir. Bu, YDS'nin en sık sorduğu kalıplardan biridir."},
+
+{"id":"tenses-perfect","title":"Present Perfect","tag":"tense","sum":"Geçmişte başlayıp bugünü etkileyen ya da hâlâ süren eylemler.",
+"parts":[
+{"h":"Yapı ve kullanım","t":"have / has + V3. Geçmişte başlamış ve hâlâ süren ya da sonucu bugün görülen eylemler için kullanılır. Zamanı belli değildir.","ex":[["Scientists have discovered a new species.","Bilim insanları yeni bir tür keşfetti."],["I have lived here for ten years.","On yıldır burada yaşıyorum."]]},
+{"h":"since ve for","t":"since bir başlangıç noktası (since 2010, since he left), for bir süre (for three years) bildirir.","ex":[["Prices have doubled since 2020.","2020'den beri fiyatlar iki katına çıktı."]]},
+{"h":"Tipik zaman ifadeleri","t":"so far, up to now, recently, lately, over the past ten years, in recent years, already, yet, ever, never.","ex":[["Over the past decade, the number of students has increased.","Son on yılda öğrenci sayısı arttı."]]}
+],
+"tip":"\"Over the last / past + süre\", \"in recent years\", \"so far\" gördüğünde aklına ilk present perfect gelsin. Belirli bir geçmiş tarih (in 2010, last year, ago) varsa present perfect değil past simple gelir."},
+
+{"id":"future","title":"Gelecek Zaman","tag":"tense","sum":"will, be going to, future continuous ve future perfect.",
+"parts":[
+{"h":"will ve be going to","t":"will: tahmin, anlık karar, söz. be going to: önceden verilmiş karar ya da kanıta dayalı tahmin.","ex":[["Experts believe prices will rise.","Uzmanlar fiyatların artacağına inanıyor."],["Look at the clouds. It's going to rain.","Bulutlara bak. Yağmur yağacak."]]},
+{"h":"Future Perfect","t":"Gelecekte belirli bir zamana kadar tamamlanmış olacak eylem. Yapı: will have + V3. Genellikle \"by + gelecek zaman\" ile gelir.","ex":[["By 2050, the population will have reached 10 billion.","2050'ye kadar nüfus 10 milyara ulaşmış olacak."]]}
+],
+"tip":"\"By the end of next year\", \"by 2050\" gibi gelecekteki bir son noktayı gösteren ifadeler genellikle future perfect (will have done) ister."},
+
+{"id":"modals","title":"Modal Fiiller","tag":"modal","sum":"can, could, may, might, must, should, have to ve geçmişe yönelik modal yapıları.",
+"parts":[
+{"h":"Olasılık","t":"must (kesin gibi), may / might / could (olabilir), can't (olamaz).","ex":[["He must be tired after the journey.","Yolculuktan sonra yorgun olmalı."],["The results may change.","Sonuçlar değişebilir."]]},
+{"h":"Zorunluluk ve tavsiye","t":"must / have to: zorunluluk. should / ought to: tavsiye. don't have to: gerek yok. mustn't: yasak.","ex":[["You don't have to come.","Gelmek zorunda değilsin."],["You mustn't smoke here.","Burada sigara içmemelisin (yasak)."]]},
+{"h":"Geçmiş modallar (modal + have + V3)","t":"must have done: kesin yapmış olmalı. might / may / could have done: yapmış olabilir. should have done: yapmalıydı ama yapmadı. can't / couldn't have done: yapmış olamaz.","ex":[["He must have forgotten.","Unutmuş olmalı."],["You should have told me.","Bana söylemeliydin."],["She couldn't have seen us.","Bizi görmüş olamaz."]]}
+],
+"tip":"Geçmiş modallar YDS'nin favorisidir. Cümlede geçmişe dair bir tahmin ya da pişmanlık varsa şıklarda \"have + V3\" ara."},
+
+{"id":"passive","title":"Edilgen Yapı (Passive)","tag":"passive","sum":"Eylemi yapan değil, eylemden etkilenen öne çıktığında kullanılan yapı.",
+"parts":[
+{"h":"Yapı","t":"be (zamana göre çekimli) + V3. Eylemi yapan önemliyse by ile eklenir.","ex":[["The bridge was built in 1973.","Köprü 1973'te inşa edildi."],["The results will be announced tomorrow.","Sonuçlar yarın açıklanacak."],["The study is being carried out by a university.","Çalışma bir üniversite tarafından yürütülüyor."]]},
+{"h":"Modal ve perfect ile","t":"can be done, must be done, has been done, had been done.","ex":[["The problem must be solved quickly.","Sorun hızla çözülmeli."],["Many species have been lost.","Birçok tür kaybedildi."]]},
+{"h":"It is said that… / is said to…","t":"Bilimsel metinlerde çok yaygındır: It is believed that…, X is thought to…, X is known to have…","ex":[["It is believed that the city was founded 3,000 years ago.","Şehrin 3.000 yıl önce kurulduğuna inanılıyor."],["The city is believed to have been founded 3,000 years ago.","Şehrin 3.000 yıl önce kurulmuş olduğuna inanılıyor."]]}
+],
+"tip":"Özne bir eylemi kendisi yapamıyorsa (bina, rapor, sonuç, ilaç…) edilgen gerekir. Boşluktan sonra by geliyorsa cevap neredeyse kesin edilgendir."},
+
+{"id":"conditionals","title":"Koşul Cümleleri (If)","tag":"conditional","sum":"Zero, first, second, third ve karma koşul cümleleri; unless, provided that, otherwise.",
+"parts":[
+{"h":"Type 0 ve 1","t":"Type 0: genel gerçek (If + present, present). Type 1: gerçek olasılık (If + present, will).","ex":[["If you heat ice, it melts.","Buzu ısıtırsan erir."],["If it rains, we will stay home.","Yağmur yağarsa evde kalacağız."]]},
+{"h":"Type 2","t":"Şu anki ya da gelecekteki hayali durum: If + past simple, would + V1.","ex":[["If I had more time, I would learn Japanese.","Daha çok vaktim olsaydı Japonca öğrenirdim."]]},
+{"h":"Type 3","t":"Geçmişe dair gerçekleşmemiş durum: If + past perfect, would have + V3.","ex":[["If he had studied, he would have passed.","Çalışsaydı geçerdi."]]},
+{"h":"Bağlaçlar","t":"unless = if not; provided / providing that, as long as = -mek şartıyla; otherwise = aksi halde; in case = olur da diye.","ex":[["You will fail unless you study.","Çalışmazsan kalırsın."],["Take an umbrella in case it rains.","Yağmur yağar diye şemsiye al."]]}
+],
+"tip":"Zaman uyumu YDS'de en çok sorulan konudur: if tarafında past perfect varsa diğer tarafta \"would / could / might have + V3\" ara."},
+
+{"id":"relative","title":"İlgi Cümlecikleri (Relative Clauses)","tag":"relative","sum":"who, which, that, whose, where, when ve virgüllü yapılar.",
+"parts":[
+{"h":"Temel ilgi zamirleri","t":"who: insanlar. which: nesneler ve hayvanlar. that: ikisi için de (virgülsüz cümlelerde). whose: sahiplik. where: yer. when: zaman.","ex":[["The scientist who discovered penicillin was Fleming.","Penisilini keşfeden bilim insanı Fleming'di."],["This is the house where I was born.","Bu, doğduğum ev."],["a country whose economy is growing","ekonomisi büyüyen bir ülke"]]},
+{"h":"Virgüllü (ek bilgi veren) yapılar","t":"Virgülden sonra that kullanılamaz; who, which, whose gelir. Cümlenin tamamını nitelemek için \", which\" kullanılır.","ex":[["Ankara, which is the capital, is in central Turkey.","Başkent olan Ankara, Türkiye'nin ortasındadır."],["He passed the exam, which surprised everyone.","Sınavı geçti, bu da herkesi şaşırttı."]]},
+{"h":"Edat + which / whom","t":"in which, of which, by whom gibi yapılar resmi dilde yaygındır. \"most of which\", \"some of whom\" kalıplarına dikkat.","ex":[["The method by which the data were collected","Verilerin toplandığı yöntem"],["He has three brothers, all of whom live abroad.","Üç kardeşi var, hepsi yurt dışında yaşıyor."]]}
+],
+"tip":"Boşluktan önce virgül varsa that'i ele. Boşluktan sonra bir isim ve fiil geliyorsa (whose economy is) whose olabilir. Yer bildiren isimden sonra arkada tam bir cümle varsa where gelir."},
+
+{"id":"noun-clauses","title":"İsim Cümlecikleri","tag":"noun","sum":"that, what, whether, if ve soru kelimeleriyle kurulan cümlecikler.",
+"parts":[
+{"h":"that ve what","t":"that bir bilgiyi aktarır (…olduğunu). what \"…olan şey\" anlamındadır ve kendi içinde bir eksik öğe vardır.","ex":[["Studies show that sleep improves memory.","Çalışmalar uykunun hafızayı geliştirdiğini gösteriyor."],["What surprised me was his answer.","Beni şaşırtan şey onun cevabıydı."]]},
+{"h":"whether / if","t":"\"-ip -mediği\" anlamına gelir. whether or not kalıbı yaygındır.","ex":[["It is not clear whether the plan will work.","Planın işe yarayıp yaramayacağı belli değil."]]},
+{"h":"Soru kelimeleri","t":"how, why, where, when ile kurulan cümleciklerde soru düzeni kullanılmaz.","ex":[["Nobody knows why the dinosaurs disappeared.","Dinozorların neden yok olduğunu kimse bilmiyor."],["I don't know where he lives. (where does he live ✗)","Nerede yaşadığını bilmiyorum."]]}
+],
+"tip":"Boşluktan sonraki cümle eksiksizse that, eksikse (nesnesi ya da öznesi yoksa) what. \"The fact that…\" kalıbı da sık çıkar."},
+
+{"id":"conjunctions","title":"Bağlaçlar ve Bağlayıcılar","tag":"conjunction","sum":"YDS'nin en çok sorduğu konu: zıtlık, sebep, sonuç, amaç ve ekleme bildiren kelimeler.",
+"parts":[
+{"h":"Zıtlık","t":"Cümle alanlar: although, even though, though, while, whereas. İsim alanlar: despite, in spite of. Cümle başında: however, nevertheless, nonetheless, on the other hand.","ex":[["Although it was raining, they played.","Yağmur yağmasına rağmen oynadılar."],["Despite the rain, they played.","Yağmura rağmen oynadılar."],["It was expensive. However, it was worth it.","Pahalıydı. Ancak buna değdi."]]},
+{"h":"Sebep","t":"Cümle alanlar: because, since, as. İsim alanlar: because of, due to, owing to, on account of.","ex":[["The flight was cancelled due to fog.","Uçuş sis nedeniyle iptal edildi."],["Since you are here, let's start.","Madem buradasın, başlayalım."]]},
+{"h":"Sonuç","t":"so, therefore, thus, hence, consequently, as a result. so … that / such … that kalıpları.","ex":[["He was so tired that he fell asleep.","O kadar yorgundu ki uyuyakaldı."],["Prices rose; consequently, demand fell.","Fiyatlar arttı; sonuç olarak talep düştü."]]},
+{"h":"Amaç ve ekleme","t":"Amaç: so that, in order to, so as to. Ekleme: moreover, furthermore, in addition, besides, as well as.","ex":[["He saves money so that he can buy a car.","Araba alabilmek için para biriktiriyor."],["The plan is cheap. Moreover, it is easy.","Plan ucuz. Üstelik kolay."]]}
+],
+"tip":"Önce iki cümle arasındaki anlam ilişkisine karar ver (zıtlık mı, sebep mi?), sonra boşluktan sonra cümle mi isim mi geldiğine bak. Bu iki adım çoğu soruyu çözer."},
+
+{"id":"gerund-infinitive","title":"-ing ve to + Fiil","tag":"gerund","sum":"Hangi fiilden sonra -ing, hangisinden sonra to + fiil gelir?",
+"parts":[
+{"h":"-ing alanlar","t":"avoid, enjoy, finish, consider, suggest, deny, admit, mind, risk, keep, involve; ayrıca edatlardan sonra her zaman -ing gelir.","ex":[["She avoided answering the question.","Soruyu cevaplamaktan kaçındı."],["He is interested in learning languages.","Dil öğrenmekle ilgileniyor."]]},
+{"h":"to + fiil alanlar","t":"want, decide, plan, hope, agree, refuse, manage, fail, afford, tend, seem, promise.","ex":[["They decided to move abroad.","Yurt dışına taşınmaya karar verdiler."],["Women tend to live longer.","Kadınlar daha uzun yaşama eğilimindedir."]]},
+{"h":"Anlamı değişenler","t":"remember / forget / stop / try: -ing ile ve to ile farklı anlam taşır.","ex":[["He stopped smoking.","Sigarayı bıraktı."],["He stopped to smoke.","Sigara içmek için durdu."],["I remember meeting her.","Onunla tanıştığımı hatırlıyorum."]]},
+{"h":"to'lu edatlar","t":"look forward to, be used to, object to, contribute to, in addition to kalıplarındaki to bir edattır; arkasından -ing gelir.","ex":[["I look forward to hearing from you.","Sizden haber almayı dört gözle bekliyorum."],["She is used to working at night.","Geceleri çalışmaya alışkın."]]}
+],
+"tip":"\"look forward to / be used to / contribute to\" kalıplarında to'dan sonra fiil yalın değil, -ing gelir. YDS bu tuzağı çok sever."},
+
+{"id":"comparison","title":"Karşılaştırma","tag":"comparison","sum":"Sıfatların karşılaştırma ve üstünlük dereceleri; as … as; the more … the more.",
+"parts":[
+{"h":"Karşılaştırma","t":"Kısa sıfatlar -er alır (cheaper), uzunlar more ile (more expensive). than ile kullanılır.","ex":[["Trains are cheaper than planes.","Trenler uçaklardan daha ucuzdur."]]},
+{"h":"Güçlendiriciler","t":"much, far, a lot, considerably, significantly + karşılaştırma: çok daha. slightly, a little: biraz daha.","ex":[["The new model is far more efficient.","Yeni model çok daha verimli."]]},
+{"h":"as … as ve the … the","t":"as + sıfat + as: kadar. not as / so … as: kadar değil. The more … , the more …: ne kadar …, o kadar ….","ex":[["He is not as tall as his brother.","Kardeşi kadar uzun değil."],["The more you practise, the better you get.","Ne kadar çok pratik yaparsan o kadar iyileşirsin."]]}
+],
+"tip":"Cümlede than görürsen boşluk karşılaştırma ister; \"very more\" yanlıştır, \"much more\" doğrudur. \"The + karşılaştırma …, the + karşılaştırma\" kalıbını ezberle."},
+
+{"id":"quantifiers","title":"Miktar Belirteçleri","tag":"quantifier","sum":"much, many, few, little, each, every, either, neither, both, all, none.",
+"parts":[
+{"h":"Sayılabilen / sayılamayan","t":"many, few, a few, a number of + sayılabilen çoğul. much, little, a little, an amount of + sayılamayan.","ex":[["Few people know this.","Bunu az kişi bilir (neredeyse hiç)."],["A few people came.","Birkaç kişi geldi."],["There is little time left.","Çok az zaman kaldı."]]},
+{"h":"İkili yapılar","t":"both … and: hem … hem. either … or: ya … ya. neither … nor: ne … ne. not only … but also: sadece … değil, aynı zamanda.","ex":[["Neither the teacher nor the students knew the answer.","Ne öğretmen ne de öğrenciler cevabı biliyordu."],["The drug is not only cheap but also effective.","İlaç sadece ucuz değil, aynı zamanda etkili."]]}
+],
+"tip":"few / little olumsuz (neredeyse hiç), a few / a little olumlu (biraz) anlam taşır. \"Neither … nor\" ve \"not only … but also\" ikili bağlaçları YDS'de sık çıkar."},
+
+{"id":"prepositions","title":"Edatlar ve Kalıplar","tag":"preposition","sum":"YDS'de sık geçen edat kalıpları.",
+"parts":[
+{"h":"Fiil + edat","t":"depend on, rely on, result in, result from, consist of, account for, suffer from, contribute to, lead to, focus on, deal with.","ex":[["The team consists of five people.","Takım beş kişiden oluşuyor."],["Many people suffer from back pain.","Birçok kişi sırt ağrısı çekiyor."]]},
+{"h":"Sıfat + edat","t":"aware of, capable of, responsible for, similar to, different from, interested in, dependent on, rich in, prone to.","ex":[["Oranges are rich in vitamin C.","Portakallar C vitamini bakımından zengindir."]]},
+{"h":"İsim + edat","t":"increase in, decrease in, demand for, effect on, impact on, cause of, solution to, access to.","ex":[["There was a sharp increase in prices.","Fiyatlarda keskin bir artış oldu."],["the impact of technology on education","teknolojinin eğitime etkisi"]]}
+],
+"tip":"result in (sonuçlanmak) ile result from (kaynaklanmak) zıt yönlüdür. \"increase in\" ve \"impact on\" gibi isim kalıplarını kelimeyle birlikte ezberle."},
+
+{"id":"reported","title":"Dolaylı Anlatım","tag":"reported","sum":"Söylenenleri aktarırken zaman kayması ve rapor fiilleri.",
+"parts":[
+{"h":"Zaman kayması","t":"Rapor fiili geçmiş zamandaysa (said, told) aktarılan cümlenin zamanı bir adım geri gider: present → past, will → would, can → could.","ex":[["\"I am tired.\" → He said that he was tired.","\"Yorgunum.\" → Yorgun olduğunu söyledi."],["\"We will help.\" → They said they would help.","\"Yardım edeceğiz.\" → Yardım edeceklerini söylediler."]]},
+{"h":"Rapor fiilleri","t":"claim, argue, suggest, admit, deny, warn, insist, point out, state. Akademik metinlerde yazarın görüşünü bu fiiller verir.","ex":[["The author argues that education is the key.","Yazar eğitimin anahtar olduğunu savunuyor."],["She denied taking the money.","Parayı aldığını inkâr etti."]]}
+],
+"tip":"suggest, recommend, insist fiillerinden sonra \"that + özne + yalın fiil\" gelebilir: The doctor suggested that he rest."},
+
+{"id":"inversion","title":"Devrik Yapılar","tag":"inversion","sum":"Not only, never, hardly, no sooner gibi ifadelerle başlayan cümlelerde yardımcı fiil öne gelir.",
+"parts":[
+{"h":"Olumsuz ifadelerle","t":"Never, rarely, seldom, not only, hardly, no sooner, under no circumstances cümle başına gelince soru düzeni kullanılır.","ex":[["Never have I seen such a beautiful place.","Hiç bu kadar güzel bir yer görmedim."],["Not only is it cheap, but it is also fast.","Sadece ucuz değil, aynı zamanda hızlı."]]},
+{"h":"Zaman kalıpları","t":"No sooner had … than …: -er -mez. Hardly / Scarcely had … when …: tam … ki.","ex":[["No sooner had I arrived than it started to rain.","Varır varmaz yağmur başladı."]]},
+{"h":"Koşul devriği","t":"if düşer, yardımcı fiil başa gelir: Had I known = If I had known; Should you need = If you need.","ex":[["Had I known, I would have helped.","Bilseydim yardım ederdim."],["Should you have any questions, call us.","Herhangi bir sorunuz olursa bizi arayın."]]}
+],
+"tip":"Cümle Never, Not only, No sooner, Hardly ile başlıyorsa şıklarda soru düzenini (had I, is it, does he) ara."}
+]
